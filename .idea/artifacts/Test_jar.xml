@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Test_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Test.jar">
+        <element id="module-output" name="Test" />
+      </element>
+      <element id="library" level="project" name="commons-io-2.5" />
+    </root>
+  </artifact>
+</component>
